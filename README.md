@@ -45,7 +45,7 @@ and College Algebra.
 <br>Repository: https://github.com/TAANVAS/taanvas
 
 ## Multi-Party Computation Intersection:
-•	In this project, I created a GUI that connects to another GUI instance of the same project which communicate list names back and forth without revealing the actual names by using Multi-Party Computation.
+•	In this project, I created a GUI that connects to another GUI instance of the same project which communicates list names back and forth without revealing the actual names by using Multi-Party Computation.
 <br>Repository: https://github.com/calebpanoch/ssp-mpc-intersection
  
 ## JPG Image Sharing Website Using CI/CD: 
