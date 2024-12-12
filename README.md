@@ -3,7 +3,7 @@
 My name is Caleb Panoch and below is a little bit of information about myself!
  
 # Education
-Master of Science in Computer Science (December 2024) Florida Atlantic University (Boca Raton, FL) GPA: 3.88/4.0
+Master of Science in Computer Science (December 2024) Florida Atlantic University (Boca Raton, FL) GPA: 3.9/4.0
 Bachelor of Science in Computer Science	(December 2023) Florida Atlantic University Boca Raton, FL) GPA: 3.95/4.0
  
 # Relevant Coursework
@@ -45,8 +45,7 @@ and College Algebra.
 <br>Repository: https://github.com/TAANVAS/taanvas
 
 ## Multi-Party Computation Intersection:
-•	In this project, I created a GUI that connects to another GUI instance of the same project which communicates list names back and forth without revealing the actual names by using Multi-Party Computation.
-<br>Repository: https://github.com/calebpanoch/ssp-mpc-intersection
+•	In this project, I created a GUI that connects to another GUI instance of the same project. These instances communicate list names without revealing the actual names by using Multi-Party Computation to compare common names.
  
 ## JPG Image Sharing Website Using CI/CD: 
 •	Used Google Cloud services to deploy our image sharing website. Used Google buckets for image storage and Google datastore to save the metadata of the image. Utilized Back4App for user encrypted login and session handling.
